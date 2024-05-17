@@ -1,1 +1,10 @@
-CSS Aqui
+h1{
+    color: blueviolet;
+}
+h3{
+    color: crimson;
+}
+.img1{
+    margin-left: 30%;
+    width: 40%;
+}
