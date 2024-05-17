@@ -1,2 +1,3 @@
 # ejemplo-01
-Ejemplo para crear repositoro
+Creador: Roger Yubran Campos.
+Este proyecto es de uso publico, por lo que monetizar el codigo es ilegal y penado por la ley.
